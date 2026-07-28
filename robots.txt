@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-rxw0sd.nihon-bare.com/sitemap.xml
